@@ -9,3 +9,4 @@ Run the auth.py file and log into word. Press enter once you have logged in.
 
 Then, run the run.py file.
 
+[![Video Title](https://img.youtube.com/vi/rSbxCm0PVTY/0.jpg)](https://www.youtube.com/watch?v=rSbxCm0PVTY)
